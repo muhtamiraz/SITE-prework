@@ -57,6 +57,7 @@ All GIFs created with https://ezgif.com/video-to-gif or https://cloudconvert.com
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
    
    I used the links provided e.g. css colors:
+   
     https://www.rapidtables.com/web/css/css-color.html
     
     https://www.youtube.com/watch?v=Zd_rLsJGtts
