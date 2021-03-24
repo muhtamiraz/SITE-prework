@@ -58,7 +58,9 @@ All GIFs created with https://ezgif.com/video-to-gif or https://cloudconvert.com
    
    I used the links provided e.g. css colors:
     https://www.rapidtables.com/web/css/css-color.html
+    
     https://www.youtube.com/watch?v=Zd_rLsJGtts
+    
     https://www.w3schools.com/js/js_events.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
